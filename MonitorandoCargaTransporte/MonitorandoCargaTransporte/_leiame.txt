@@ -1,0 +1,6 @@
+﻿1. Criar a interface IDomainEvent
+2. Criar a classe que representa os eventos (EncomendaRealizada), implementando IDomainEvent
+3. Criar interface para o método que irá disparar os eventos (IHandle)
+4. Criar a classe que irá disparar os eventos (DomainEvents)
+5. Criar a implementação do evento (SalvarOPedidoDeEncomendaNoBancoDeDados);
+6. Consumir (ver no Program)
